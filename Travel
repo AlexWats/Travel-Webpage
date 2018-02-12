@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+    </head>
+    <body>
+    <style>body{background-color:orange;}
+    .america{color:indigo;}
+</style>
+        <h1 class="america">Travel to the U.S.A!!!</h1>
+        <h2 class="america">It is currently a great place for mexicans to immigrate to!!!</h2>
+        <h3 class="america">It has:</h3>
+        <ul>
+            <li>A great, great wall!!!</li>
+            <li>A small loan of a million dollars!!!</li>
+            <li>A racist, angry, orange president who just LOVES mexicans!!!</li>
+        </ul>
+        <p>As you can see, the U.S.A is a <em>very</em> safe country for mexicans to move to. Especially because of their president!!!</p>
+        <h3 class="america">You can:</h3>
+        <ul>
+            <li> Go see the white house!!!</li>
+            <li>Get deported!!!</li>
+            <li>Get roasted by the president on twitter!!!</li>
+        </ul>
+        <p>Now here are some random images because Donald Trump isn't in the image selector!!!</p>
+        <img src="https://www.kasandbox.org/programming-images/creatures/OhNoes.png">
+        <img src="https://www.kasandbox.org/programming-images/creatures/Hopper-Happy.png">
+        <img src="https://www.kasandbox.org/programming-images/creatures/Winston.png">
+    </body>
+</html>
